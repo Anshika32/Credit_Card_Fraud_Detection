@@ -5,10 +5,7 @@ This project is a web application for detecting credit card fraud using a machin
 ## 📋 Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 - [File Descriptions](#file-descriptions)
-- [Screenshots](#screenshots)
 - [Acknowledgements](#acknowledgements)
 
 ## ✨ Features
